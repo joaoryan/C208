@@ -1,6 +1,5 @@
 .text
-# Nome: Gabriel Henrique C.G.R 235
-
+# Nome: João Ryan dos Santos Mat.: 239
 
 # Questao 1
 
