@@ -4,7 +4,6 @@ b: .word 2
 c: .word 3
 	
 .text
-
 la $s1, a
 la $s2, b
 la $s3, c
